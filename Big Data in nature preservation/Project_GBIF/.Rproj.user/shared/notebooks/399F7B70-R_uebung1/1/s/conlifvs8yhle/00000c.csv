@@ -1,0 +1,6 @@
+"0","##search
+data_gel<-occ_search(taxonKey = tax_keylist,return = ""data"",hasCoordinate = TRUE,country = ""BR"")
+"
+"2","Error in curl::curl_fetch_memory(x$url$url, handle = x$url$handle) : 
+  URL using bad/illegal format or missing URL
+"

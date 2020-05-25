@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590422101671.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A8F0AF06",
+    "lastKnownWriteTime" : 28429470871257198,
+    "last_content_update" : 1590422101671,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "0e0cbe4b34b84108974673835b9e1a01",
+        "name" : "data_gel",
+        "title" : "data_gel"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

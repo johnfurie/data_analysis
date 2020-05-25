@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590418470602.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "987637872",
+    "id" : "40A50040",
+    "lastKnownWriteTime" : 1590420941,
+    "last_content_update" : 1590420941547,
+    "path" : "~/edu/SS2020/data_share/Big Data in nature preservation/Project_GBIF/R_uebung.R",
+    "project_path" : "R_uebung.R",
+    "properties" : {
+        "cursorPosition" : "22,17",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

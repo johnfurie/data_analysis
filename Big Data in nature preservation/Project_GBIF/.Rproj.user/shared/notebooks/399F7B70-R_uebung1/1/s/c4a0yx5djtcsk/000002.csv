@@ -1,0 +1,5 @@
+"0","##search for occurence records and explore data"
+"0","objectdata<-occ_search(scientificName = ""Ceiba pentandra"","
+"0","                       return = ""data"", Limit = ""500"")"
+"2","Error: some param names not allowed: Limit
+"
