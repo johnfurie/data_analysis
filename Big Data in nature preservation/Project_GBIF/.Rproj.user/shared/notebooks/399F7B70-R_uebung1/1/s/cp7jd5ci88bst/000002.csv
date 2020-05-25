@@ -1,0 +1,23 @@
+"0","##install package"
+"0","install.packages(c(""tidyverse"", ""rgbif"", ""sp"", ""countrycode"", ""CoordinateCleaner"", ""data.table"", ""rgdal"", ""rgeos""))"
+"2","WARNING: Rtools is required to build R packages but no version of Rtools compatible with the currently running version of R was found. Note that the following incompatible version(s) of Rtools were found:
+
+  - Rtools 3.5 (installed at C:\Rtools)
+
+Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","Installing packages into ‘C:/Users/Anonymouse/Documents/R/win-library/4.0’
+(as ‘lib’ is unspecified)
+"
+"2","also installing the dependencies ‘desc’, ‘pkgbuild’, ‘rprojroot’, ‘pkgload’, ‘praise’, ‘colorspace’, ‘sys’, ‘ps’, ‘highr’, ‘markdown’, ‘e1071’, ‘testthat’, ‘farver’, ‘labeling’, ‘munsell’, ‘RColorBrewer’, ‘viridisLite’, ‘askpass’, ‘rematch’, ‘prettyunits’, ‘processx’, ‘knitr’, ‘yaml’, ‘htmltools’, ‘evaluate’, ‘base64enc’, ‘tinytex’, ‘xfun’, ‘triebeard’, ‘classInt’, ‘units’, ‘backports’, ‘generics’, ‘reshape2’, ‘assertthat’, ‘glue’, ‘fansi’, ‘DBI’, ‘lifecycle’, ‘R6’, ‘ellipsis’, ‘pkgconfig’, ‘Rcpp’, ‘BH’, ‘plogr’, ‘digest’, ‘gtable’, ‘isoband’, ‘scales’, ‘withr’, ‘vctrs’, ‘curl’, ‘mime’, ‘openssl’, ‘utf8’, ‘clipr’, ‘cellranger’, ‘progress’, ‘callr’, ‘fs’, ‘rmarkdown’, ‘selectr’, ‘stringi’, ‘urltools’, ‘httpcode’, ‘plyr’, ‘sf’, ‘broom’, ‘cli’, ‘crayon’, ‘dbplyr’, ‘dplyr’, ‘forcats’, ‘ggplot2’, ‘haven’, ‘hms’, ‘httr’, ‘jsonlite’, ‘lubridate’, ‘magrittr’, ‘modelr’, ‘pillar’, ‘purrr’, ‘readr’, ‘readxl’, ‘reprex’, ‘rlang’, ‘rstudioapi’, ‘rvest’, ‘stringr’, ‘tibble’, ‘tidyr’, ‘xml2’, ‘crul’, ‘whisker’, ‘oai’, ‘geoaxe’, ‘wicket’, ‘lazyeval’, ‘geosphere’, ‘raster’, ‘rnaturalearth’, ‘tidyselect’
+
+"
+"1","
+"
+"1",""
+"1","  There are binary versions available but the source versions are later"
+"1",""
+"1",":
+"

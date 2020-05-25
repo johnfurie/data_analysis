@@ -1,0 +1,3 @@
+"0","##use the suggest function to get gbif taxon key"
+"0","tax_key<-name_suggest(q=""Ceiba"",rank=""Genus"")"
+"0","tax_key"

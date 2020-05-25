@@ -1,5 +1,0 @@
-"0","write.csv(data_final,""gbif_occ.csv"")
-"
-"2","Error in (function (..., row.names = NULL, check.rows = FALSE, check.names = TRUE,  : 
-  arguments imply differing number of rows: 1, 2, 19, 3, 4, 8, 7, 10, 6
-"

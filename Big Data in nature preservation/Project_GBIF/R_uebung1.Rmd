@@ -27,12 +27,12 @@ library(rgeos)
 ```{r }
 ##search for occurence records and explore data
 objectdata<-occ_search(scientificName = "Ceiba pentandra",
-                       return = "data", Limit = "500")
+                       return = "data", limit = 500)
 
 ##number of records
 nrow(objectdata)
 names(objectdata)
-plot(objectdata$decimalLatitide~objectdatadecimalLongitude)
+plot(objectdata$decimalLatitude~objectdata$decimalLongitude)
 ```
 
 ```{r}
@@ -44,7 +44,7 @@ tax_key
 lapply(tax_key$key,"occ_count")
 
 ##choose taxon key
-tax_key$key[1]
+tax_key<-tax_key$key[1]
 ```
 
 What if i want a record from a country
@@ -75,6 +75,6 @@ download and save the data
 ```{r}
 data_final<-lapply(data_gel,"as.data.frame")
 a <- bind_rows(data_final)
-write.csv(data_final,"gbif_occ.csv")
+write.csv(a,"gbif_occ.csv")
 ```
 

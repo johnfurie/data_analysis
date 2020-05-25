@@ -1,0 +1,3 @@
+"0","study_area<-""POLYGON((-35 -4.5, -38.5 -4.5, -38.5 -7, -35 -7, -35 -4.5))"""
+"0",""
+"0","datasa<-occ_search(taxonKey = tax_key, return = ""data"",hasCoordinate = TRUE, geometry = study_area)"
